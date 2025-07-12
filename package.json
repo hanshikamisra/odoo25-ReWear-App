@@ -1,0 +1,24 @@
+{
+  "name": "odoo25-rewear-app",
+  "version": "1.0.0",
+  "description": "**Brogrammers**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanshikamisra/odoo25-ReWear-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanshikamisra/odoo25-ReWear-App/issues"
+  },
+  "homepage": "https://github.com/hanshikamisra/odoo25-ReWear-App#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.16.3"
+  }
+}
